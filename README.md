@@ -1,6 +1,6 @@
 In order to properly load into the DockingPie plugin in PyMOL, a ligand .mol2 file must have each atom numbered;
 however, this is not the default for structures saved through Avogadro. Hence, this simple program with sort and number
-each atom in a .mol2 file such that it is compatible with DockingPie.
+each atom in a .mol2 file such that it is compatible with DockingPie. It will also allow you to rename your molecule.
 
 Usage in the command prompt:
 ```
